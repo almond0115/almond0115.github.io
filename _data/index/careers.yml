@@ -5,13 +5,13 @@
     #i18n: company_a
   desc:
     detail: I served in the Military
-    i18n: company_a_desc
+    #i18n: company_a_desc
   date:
     detail: March. 2017
-    i18n: company_a_date
+    #i18n: company_a_date
   job:
     detail: Air Force
-    i18n: company_a_job
+    #i18n: company_a_job
   icon: fa-plus-square
   present: true
 
