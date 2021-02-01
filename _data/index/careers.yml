@@ -2,7 +2,7 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: Military
-    i18n: company_a
+    #i18n: company_a
   desc:
     detail: I served in the Military
     i18n: company_a_desc
